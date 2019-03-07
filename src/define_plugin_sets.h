@@ -530,6 +530,7 @@ To create/register a plugin, you have to :
     #define USES_P052   // SenseAir
     #define USES_P056   // SDS011-Dust
     #define USES_P059   // Encoder
+    #define USES_P182   // Dual Asymetric Pulse
 
     #define USES_P063   // TTP229_KeyPad
 #endif
